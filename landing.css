@@ -36,3 +36,25 @@
 .spacer2 {
     flex-basis: 40%;
 }
+
+.Body1 {
+    display: flex;
+}
+
+.textBody1 {
+    color: aliceblue;
+    font-family: 'Roboto'
+}
+
+.button {
+    border-radius: 2px;
+    background-color: rgb(34, 136, 184);
+    width: 90px;
+    height: 25px;
+    text-align: center;
+}
+
+.imgSS {
+   height: 264px; 
+   width: 486px;
+}
